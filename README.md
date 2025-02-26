@@ -2,7 +2,7 @@
 
 <!--
   <<< Author notes: Course header >>>
-  (https://docs.github.com/LASGaspariano/red-sensores-automotrices/Tessel_CAN-BUS-Shield_30110896-01.jpg)
+  [Repository](https://docs.github.com/LASGaspariano/red-sensores-automotrices/Tessel_CAN-BUS-Shield_30110896-01.jpg)
 -->
 
 # Proyecto red de sensores automotrices con hardware de código abierto
