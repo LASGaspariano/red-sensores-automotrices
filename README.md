@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# Proyecto red de sensores automotrices con hardware de código abierto
 
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
