@@ -2,13 +2,12 @@
 
 <!--
   <<< Author notes: Course header >>>
-  [repository](https://docs.github.com/LASGaspariano/red-sensores-automotrices/edit/main/Tessel_CAN-BUS-Shield_30110896-01.jpg)
 -->
 
 # Proyecto red de sensores automotrices con hardware de código abierto
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-[image1](https://github.com/LASGaspariano/red-sensores-automotrices/blob/main/Tessel_CAN-BUS-Shield_30110896-01.jpg)
+_El presente proyecto hace uso de las siguientes tarjetas para establecer comunicación CAN BUS:_
+[Seeed Studio](https://github.com/LASGaspariano/red-sensores-automotrices/blob/main/Tessel_CAN-BUS-Shield_30110896-01.jpg)
 </header>
 
 <!--
