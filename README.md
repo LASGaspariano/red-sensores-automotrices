@@ -2,9 +2,7 @@
 
 <!--
   <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
+  (https://docs.github.com/LASGaspariano/red-sensores-automotrices/Tessel_CAN-BUS-Shield_30110896-01.jpg)
 -->
 
 # Proyecto red de sensores automotrices con hardware de código abierto
