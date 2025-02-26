@@ -7,7 +7,7 @@
 # Proyecto red de sensores automotrices con hardware de código abierto
 
 _El presente proyecto hace uso de las siguientes tarjetas para establecer comunicación CAN BUS:_
-[Seeed Studio](https://github.com/LASGaspariano/red-sensores-automotrices/blob/main/Tessel_CAN-BUS-Shield_30110896-01.jpg) y [Sparkfun](https://github.com/LASGaspariano/red-sensores-automotrices/blob/main/can-bus-shield-para-arduino.jpg).
+[Seeed Studio](https://github.com/LASGaspariano/red-sensores-automotrices/blob/main/Tessel_CAN-BUS-Shield_30110896-01.jpg) y [Sparkfun](https://github.com/LASGaspariano/red-sensores-automotrices/blob/main/can-bus-shield-para-arduino.jpg). Cuyos datos técnicos están disponibles es: (1) [Seeed](https://www.seeedstudio.com/CAN-BUS-Shield-V2.html?srsltid=AfmBOooxECFFg5UrVvI3tu7SZtpY-n5GCdLO14jTlGvd5yURRbmcR_oN) & (2)[Sparkfun](https://www.sparkfun.com/can-bus-shield.html)
 </header>
 
 <!--
