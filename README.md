@@ -17,7 +17,9 @@ _Las bibliotecas o librerías de los dispositivos empleados en este proyecto se 
 
 The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
 
-# ▶️: Activity: Enable GitHub Pages
+# ▶️: Códigos
+
+_Los códigos para la programación de las tarjetas (nodos) con sus respectivos sensores se encuentran en:_
 
 1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
 1. Under your repository name, click **Settings**.
