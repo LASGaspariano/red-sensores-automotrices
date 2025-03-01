@@ -5,3 +5,5 @@ Los sensores cuyos códigos de programación en Arduino se encuentran en esta en
   * [_Sensor inercial de 6 grados de libertad (`DoF`)_](https://uelectronics.com/producto/imu-mpu6050-6-grados-de-libertad/?srsltid=AfmBOoo1-33dknzr0B-NkSTutuudQkN_3-Un7o71Ski201IsVBvO8qSP)
   * [_Sensor de presión barométrica_](https://uelectronics.com/producto/sensor-de-presion-barometrica-bmp180/)
   * [_Sensor de efecto Hall_](https://techmake.com/products/senmag00078?srsltid=AfmBOoqbiyrriZsMPyj_aq_PwZrfJOd14JqwvPZa9aZH2zmN94dOo16S)
+  * [_Fotoresistencia_](https://uelectronics.com/producto/fotoresistencia-ldr-5537/?srsltid=AfmBOorndoLmmTwjnmfssvgMCycuQpdZTaJdk7B2662nLZQpBoYfvAvo)
+  * 
