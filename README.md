@@ -11,13 +11,13 @@ _El presente proyecto hace uso de las siguientes tarjetas para establecer comuni
 
 A continuación se enlistan los sensores empleados así como sus respectivas bibliotecas para la tarjeta de desarrollo Arduino UNO.
 
-# 📁: Sensores involucrados
+## 📁: Sensores involucrados
 
 _Las bibliotecas o librerías de los dispositivos empleados en este proyecto se encuentran en la carpeta_
 
 The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
 
-# 📁: Códigos
+## 📁: Códigos
 
 _Los códigos para la programación de las tarjetas (nodos) con sus respectivos sensores se encuentran en:_
 
