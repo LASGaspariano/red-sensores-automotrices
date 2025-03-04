@@ -7,5 +7,6 @@ Los sensores cuyos códigos de programación en Arduino se encuentran en esta en
   * [_Sensor de efecto Hall_](https://techmake.com/products/senmag00078?srsltid=AfmBOoqbiyrriZsMPyj_aq_PwZrfJOd14JqwvPZa9aZH2zmN94dOo16S)
   * [_Fotoresistencia_](https://uelectronics.com/producto/fotoresistencia-ldr-5537/?srsltid=AfmBOorndoLmmTwjnmfssvgMCycuQpdZTaJdk7B2662nLZQpBoYfvAvo)
   * [_Sensor ultrasónico_](https://uelectronics.com/producto/sensor-ultrasonico-hc-sr04/?srsltid=AfmBOorn3znxqZR_ZdmyL3Yz5b3BrqJBfLNtZBkADGrNVQq8PrNoMOxL)
-# ➡️ Descripción de los actuadores empledos
+
+# ▶️ Descripción de los actuadores empledos
   * [_Display LCD_](https://uelectronics.com/producto/display-lcd-16x2-fondo-azul-amarillo-con-i2c/)
