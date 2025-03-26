@@ -16,4 +16,5 @@ Los sensores empleados en la red de sensores incluyen:
 Cabe mencionar que algunos de estos sensores (y actuadores) requieren de una biblioteca para poder interactuar con la tarjeta de desarrollo Arduino empleada en el proyecto. En esos casos, los códigos de programación en Arduino IDE se encuentran en esta entrada.
 
 # ▶️ Descripción de los actuadores empledos
+Los actuadores empleados en la red incluyen:
   * [_Display LCD_](https://uelectronics.com/producto/display-lcd-16x2-fondo-azul-amarillo-con-i2c/)
