@@ -19,4 +19,4 @@ Cabe mencionar que algunos de estos sensores requieren de una biblioteca para po
 Los actuadores empleados en la red incluyen:
   * [_Display LCD_](https://uelectronics.com/producto/display-lcd-16x2-fondo-azul-amarillo-con-i2c/)
 
-Algunos de estos actuadores requieren de una biblioteca para poder interactuar con la tarjeta de desarrollo Arduino empleada en el proyecto. En esos casos, los códigos de programación en Arduino IDE se encuentran en esta entrada.
+Algunos de estos actuadores requieren de una biblioteca para poder interactuar con la tarjeta de desarrollo Arduino empleada en el proyecto. En esos casos, los códigos de programación en Arduino IDE se encuentran en esta [entrada](https://github.com/LASGaspariano/red-sensores-automotrices/tree/main/C%C3%B3digos%20Arduino/Actuadores).
