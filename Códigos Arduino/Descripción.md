@@ -1,3 +1,6 @@
+# ▶️ Nodos de la red
+La red consta de cuatro nodos, cuyos códigos de programación se encuentran en la carpeta nodos.
+
 # ▶️ Descripción de los sensores empleados
 Los sensores empleados en la red de sensores incluyen:
   * [_Potenciómetro de doble salida_](https://uelectronics.com/producto/potenciometro-6-pines-wh148/)
