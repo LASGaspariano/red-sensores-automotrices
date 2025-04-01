@@ -8,7 +8,17 @@
 
 _El presente proyecto hace uso de las siguientes tarjetas para establecer comunicación CAN BUS:_
 
-![Seeed Studio](https://github.com/LASGaspariano/red-sensores-automotrices/blob/main/Tessel_CAN-BUS-Shield_30110896-01.jpg) y ![Sparkfun Shield](https://github.com/LASGaspariano/red-sensores-automotrices/blob/main/can-bus-shield-para-arduino.jpg). _Cuyos datos técnicos están disponibles en:_ (1) [Seeed](https://www.seeedstudio.com/CAN-BUS-Shield-V2.html?srsltid=AfmBOooxECFFg5UrVvI3tu7SZtpY-n5GCdLO14jTlGvd5yURRbmcR_oN) & (2)[Sparkfun](https://www.sparkfun.com/can-bus-shield.html).
+*1.- Tareja Seeed Studio*
+
+![Seeed Studio](https://github.com/LASGaspariano/red-sensores-automotrices/blob/main/Tessel_CAN-BUS-Shield_30110896-01.jpg)
+
+Cuyos datos técnicos están disponibles en: [Seeed](https://www.seeedstudio.com/CAN-BUS-Shield-V2.html?srsltid=AfmBOooxECFFg5UrVvI3tu7SZtpY-n5GCdLO14jTlGvd5yURRbmcR_oN)
+
+*2.- Sparkfun Shield*
+
+![Sparkfun Shield](https://github.com/LASGaspariano/red-sensores-automotrices/blob/main/can-bus-shield-para-arduino.jpg). 
+
+Cuyos datos técnicos están disponibles en: [Sparkfun](https://www.sparkfun.com/can-bus-shield.html).
 
 A continuación se enlistan los sensores empleados así como sus respectivas bibliotecas para la tarjeta de desarrollo Arduino UNO.
 
