@@ -24,5 +24,5 @@ _Las bibliotecas o librerías de los dispositivos empleados en este proyecto se 
 
 ## 📁 Códigos
 
-_Los códigos para la programación de las tarjetas (nodos) con sus respectivos sensores se encuentran en el [siguiente enlace](https://github.com/LASGaspariano/red-sensores-automotrices/tree/main/C%C3%B3digos%20Arduino)._
+_Los códigos para la programación de las tarjetas (nodos) con sus correspondientes sensores y actuadores se encuentran en el [siguiente enlace](https://github.com/LASGaspariano/red-sensores-automotrices/tree/main/C%C3%B3digos%20Arduino)._
 
