@@ -1,5 +1,7 @@
 # ▶️ Nodos de la red
 La red consta de cuatro nodos, cuyos códigos de programación se encuentran en la carpeta nodos.
+![Red de cuatro nodos](https://github.com/LASGaspariano/red-sensores-automotrices/blob/main/C%C3%B3digos%20Arduino/RedCANBUS.png)
+
 
 # ▶️ Descripción de los sensores empleados
 Los sensores empleados en la red de sensores incluyen:
