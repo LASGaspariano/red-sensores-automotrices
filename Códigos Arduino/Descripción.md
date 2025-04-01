@@ -1,5 +1,5 @@
 # ▶️ Nodos de la red
-La red consta de cuatro nodos, cuyos códigos de programación se encuentran en la carpeta nodos.
+La red consta de cuatro nodos, tal y como se muestra en la Figura, cuyos códigos de programación se encuentran en la carpeta nodos.
 ![Red de cuatro nodos](https://github.com/LASGaspariano/red-sensores-automotrices/blob/main/C%C3%B3digos%20Arduino/RedCANBUS.png)
 
 
