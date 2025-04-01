@@ -8,15 +8,15 @@
 
 El presente proyecto hace uso del siguientes hardware para establecer comunicación vía protocolo CAN BUS:
 
-*1.- Tareja Seeed Studio*
+*1.- Tarjeta Seeed Studio*
 
 ![Seeed Studio](https://github.com/LASGaspariano/red-sensores-automotrices/blob/main/Tessel_CAN-BUS-Shield_30110896-01.jpg)
 
-*2.- Sparkfun Shield*
+*2.- Tarjeta Sparkfun Shield*
 
 ![Sparkfun Shield](https://github.com/LASGaspariano/red-sensores-automotrices/blob/main/can-bus-shield-para-arduino.jpg). 
 
-Los datos técnicos de ambas están disponibles en: [Seeed](https://www.seeedstudio.com/CAN-BUS-Shield-V2.html?srsltid=AfmBOooxECFFg5UrVvI3tu7SZtpY-n5GCdLO14jTlGvd5yURRbmcR_oN) y [Sparkfun](https://www.sparkfun.com/can-bus-shield.html).
+Los datos técnicos de ambas están disponibles en: [Seeed](https://www.seeedstudio.com/CAN-BUS-Shield-V2.html?srsltid=AfmBOooxECFFg5UrVvI3tu7SZtpY-n5GCdLO14jTlGvd5yURRbmcR_oN) y [Sparkfun](https://www.sparkfun.com/can-bus-shield.html), respectivamente.
 
 ## 📁: Sensores y actuadores involucrados
 
