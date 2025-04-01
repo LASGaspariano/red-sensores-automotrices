@@ -6,7 +6,7 @@
 
 # 🆓: Red de sensores automotrices con hardware de código abierto
 
-_El presente proyecto hace uso de las siguientes tarjetas para establecer comunicación CAN BUS:_
+_El presente proyecto hace uso del siguientes hardware para establecer comunicación vía protocolo CAN BUS:_
 
 *1.- Tareja Seeed Studio*
 
