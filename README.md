@@ -6,7 +6,7 @@
 
 # 🆓: Red de sensores automotrices con hardware de código abierto
 
-_El presente proyecto hace uso del siguientes hardware para establecer comunicación vía protocolo CAN BUS:_
+El presente proyecto hace uso del siguientes hardware para establecer comunicación vía protocolo CAN BUS:
 
 *1.- Tareja Seeed Studio*
 
@@ -18,7 +18,7 @@ _El presente proyecto hace uso del siguientes hardware para establecer comunicac
 
 Los datos técnicos de ambas están disponibles en: [Seeed](https://www.seeedstudio.com/CAN-BUS-Shield-V2.html?srsltid=AfmBOooxECFFg5UrVvI3tu7SZtpY-n5GCdLO14jTlGvd5yURRbmcR_oN)
 
-## 📁: Sensores involucrados
+## 📁: Sensores y actuadores involucrados
 
 _Las bibliotecas o librerías de los dispositivos empleados en este proyecto se encuentran en las carpetas [Sensores](https://github.com/LASGaspariano/red-sensores-automotrices/tree/main/C%C3%B3digos%20Arduino/Sensores) y [Actuadores](https://github.com/LASGaspariano/red-sensores-automotrices/tree/main/C%C3%B3digos%20Arduino/Actuadores), respectivamente._
 
