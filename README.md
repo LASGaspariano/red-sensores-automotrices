@@ -19,5 +19,5 @@ The first step is to enable GitHub Pages on this [repository](https://docs.githu
 
 ## 📁: Códigos
 
-Los códigos para la programación de las tarjetas (nodos) con sus respectivos sensores se encuentran en el [siguiente enlace] (https://github.com/LASGaspariano/red-sensores-automotrices/tree/main/C%C3%B3digos%20Arduino):
+_Los códigos para la programación de las tarjetas (nodos) con sus respectivos sensores se encuentran en el [siguiente enlace](https://github.com/LASGaspariano/red-sensores-automotrices/tree/main/C%C3%B3digos%20Arduino)_
 
