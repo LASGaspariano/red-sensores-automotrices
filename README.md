@@ -16,7 +16,7 @@ El presente proyecto hace uso del siguientes hardware para establecer comunicaci
 
 ![Sparkfun Shield](https://github.com/LASGaspariano/red-sensores-automotrices/blob/main/can-bus-shield-para-arduino.jpg). 
 
-Los datos técnicos de ambas están disponibles en: [Seeed](https://www.seeedstudio.com/CAN-BUS-Shield-V2.html?srsltid=AfmBOooxECFFg5UrVvI3tu7SZtpY-n5GCdLO14jTlGvd5yURRbmcR_oN) y [Sparkfun](https://www.sparkfun.com/can-bus-shield.html)
+Los datos técnicos de ambas están disponibles en: [Seeed](https://www.seeedstudio.com/CAN-BUS-Shield-V2.html?srsltid=AfmBOooxECFFg5UrVvI3tu7SZtpY-n5GCdLO14jTlGvd5yURRbmcR_oN) y [Sparkfun](https://www.sparkfun.com/can-bus-shield.html).
 
 ## 📁: Sensores y actuadores involucrados
 
